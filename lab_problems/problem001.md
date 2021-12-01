@@ -1,5 +1,5 @@
 # Problem 1
-## Zbiór Mandelbrota
+## Zbiór Mandelbrota - Epizod I
 
 ---
 ### Opis problemu
